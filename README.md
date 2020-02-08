@@ -3,6 +3,8 @@ Este projeto recria visualmente a calculadora do MacOS X, com as funcionalidades
 
 Criado em React com componentes funcionais e o uso de hooks.
 
+![alt text](https://github.com/alanlesc1/calculadora/blob/master/public/screenshot.png)
+
 ## How To
 Foi utilizado o `React 16.8.6`. No diretório do projeto:
 - instalar dependências: `npm install`
